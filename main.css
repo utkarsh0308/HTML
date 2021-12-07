@@ -1,0 +1,44 @@
+.abttxt{
+    
+    background-color: gray;
+    text-align: center;
+    height: 120vh;
+    display: inline-block;
+    width:40px
+}
+.eduqua{
+    background-color: green;
+    text-align: center;
+    display:inline-block
+    height: 125vh;
+    width: 40px;
+}
+.Skandhobby{
+    background-color: blue ;
+    text-align: center;
+    height: 130vh;
+    margin: 70px 70px 70px 120px;
+}
+
+.about{
+    height: 40px;
+    display: block;
+    width: 40px;
+    background-color: red;
+    font-size: xx-large;
+    /* margin-left: 20%; */
+    align-items: center;
+}
+
+footer{
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
