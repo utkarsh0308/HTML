@@ -11,3 +11,16 @@
     height: 50vh;
     background-color: red;
 }
+body{
+    margin: 0;padding: 0;
+}
+header{
+    background-color: black;
+}
+.navbuttons{
+    background-color: chartreuse;
+    border-radius: 40px;
+    font-size: x-large;
+    font-style: none;
+    color: white;
+}
