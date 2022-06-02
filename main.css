@@ -1,7 +1,9 @@
 header{
     background-color:black;
 }
-
+a.headertext{
+    background-color: salmon;
+}
 .abttxt{
     background-color: gray;
     text-align: center;
